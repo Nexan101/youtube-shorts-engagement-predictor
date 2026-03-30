@@ -1,0 +1,6 @@
+#Run Data_Collector.py to get the data from the YouTube channel
+#Run feature_engineering.py to engineer the features
+#Run model.py to save the model and features
+#Run FastAPI.py to run the API
+#Run Streamlit.py to run the Streamlit app
+
